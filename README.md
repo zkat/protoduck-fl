@@ -1,8 +1,8 @@
 # Fantasyland Protocols
 
 This module provides a
-[`fantasy-land`](npm.im/fantasy-land) compatibility
-layer using [`protoduck`](npm.im/protoduck). The compatibility
+[`fantasy-land`](https://npm.im/fantasy-land) compatibility
+layer using [`protoduck`](https://npm.im/protoduck). The compatibility
 layer includes protocol definitions for all protocols with methods listed in the
 `fantasy-land` spec, and includes automatic two-way compatibility between
 methods defined in either world.
