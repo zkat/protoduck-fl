@@ -18,7 +18,7 @@ great way to augment your `fantasy-land` implementations!
 
 ## Example
 
-```
+```javascript
 // Basic two-way compatibility
 > var Monoid = require('protoduck-fl/monoid')
 > var fl = require('fantasy-land')
